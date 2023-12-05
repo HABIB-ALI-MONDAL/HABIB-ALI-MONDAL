@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HABIB ALI MONDAL</h1>
-<h3 align="center">A passionate web developer in India and CEO of "DARLING COE CAMP" YT Channel,</h3>
+<h3 align="center">A passionate web developer in India and CEO of "DARLING CODE CAMP" YT Channel,</h3>
 
 <img aling="right" alt="darling" width="400" src="![image](https://github.com/HABIB-ALI-MONDAL/HABIB-ALI-MONDAL/assets/152946819/c473420c-8824-49b1-8d6e-f8f1e885ae52)
 "/>
