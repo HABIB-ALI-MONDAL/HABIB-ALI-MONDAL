@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm HAIB AL MONDAL</h1>
 <h3 align="center">A passionate web developer in India and CEO of "DARLING COE CAMP" YT Channel,</h3>
 
+<img align="right" alt="darling" width="400" src="![image](https://github.com/HABIB-ALI-MONDAL/HABIB-ALI-MONDAL/assets/152946819/00e76d9b-c7f5-4b78-8363-56858376bee0)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-ali-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="habib-ali-mondal" /> </p>
 
 - 🔭 I’m currently teach on **DARLING CODE CAMP**
